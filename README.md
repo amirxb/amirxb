@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Amir Burokur<br>-A passionate Full-Stack Developer from Mauritius-</h2>
+<h2 align="center">Hi 👋, I'm Amir Burokur<br>— A Passionate Full-Stack Developer from Mauritius —</h2>
 
 ###
 
